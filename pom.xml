@@ -27,7 +27,7 @@
         <server>
             <id>nexus-releases</id>
             <username>admin</username>
-            <password>{Encrypted-Password}</password> <!-- Replace with encrypted password -->
+            <password>Pranali@28</password> <!-- Replace with encrypted password -->
         </server>
     </servers>
 
